@@ -7,6 +7,8 @@ Python=3.11
 
 Gradio=4.22.0
 
+运行应用要用：gradio_app.py
+
 ### **作业完成情况：**
 
 用Gradio做了**可视化页面**：
